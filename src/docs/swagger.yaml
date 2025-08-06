@@ -11,7 +11,7 @@ tags:
   
 
 paths:
-  /googleAuth/:
+  /googleAuth:
     get:
       summary: Google Authentication
       operationId: googleAuth
